@@ -1,1 +1,1 @@
-# CM1
+# This is a single-column pattern using Python
